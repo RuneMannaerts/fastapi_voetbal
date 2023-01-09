@@ -35,7 +35,7 @@ Foto's:
 
 ##get voetballer
 
-<img src="/img/voetballer get.JPG">
+<img src="/img/voetballers get.JPG">
 
 
 **docs screenshots:**
