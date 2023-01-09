@@ -9,7 +9,7 @@ Voor dit project heb ik het onderwerp 'voetbal' gekozen.
 
 Ik heb gebruik gemaakt van 3 POSTS (1 voor de security (acces token), 1 om een voetballer aan te maken, 1 voor een ploeg aan te maken voor een speler, ook heb ik 2 DELETES aangemaakt( 1 om voetballer te kunnen verwijderen, 1 om een ploeg van een speler te verwijderen), daarnaast heb ik 3 GETS (1 om voetballers te lezen met authenticatie, 1 om voetballers te lezen zonder authenticatie en 1 om ploeg van een speler te lezen ) en als laatste heb ik er ook nog een PUT aan toegevoegd. Deze kan voetballers op ID updaten.
 
-![images/api+docs.jpg](images/api+docs.jpg)
+![images/api + docs.jpg](images/api + docs.jpg)
 
 
 **Beschrijving front-end:**
@@ -30,7 +30,8 @@ Foto's:
 [https://frontend-api-rune-voetbal.netlify.app](https://frontend-api-rune-voetbal.netlify.app)
 
 **Werking API Postman:**
-
+![images/post voetballer.jpg]
+![images/voetballer get.jpg]
 
 **docs screenshots:**
-
+![images/api + docs.jpg]
