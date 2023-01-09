@@ -29,7 +29,9 @@ Foto's:
 [https://frontend-api-rune-voetbal.netlify.app](https://frontend-api-rune-voetbal.netlify.app)
 
 **Werking API Postman:**
+post voetballer
 <img src="/img/post voetballer.JPG">
+get voetballer
 <img src="/img/voetballer get.JPG">
 
 
