@@ -33,7 +33,7 @@ Foto's:
 
 <img src="/img/post voetballer.JPG">
 
-##get voetballer
+***get voetballer***
 
 <img src="/img/voetballers get.JPG">
 
