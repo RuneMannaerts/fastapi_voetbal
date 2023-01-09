@@ -3,19 +3,19 @@ from pydantic import BaseModel
 
 class ploegBase(BaseModel):
     titels: int
-    hoogste_positie: int
+    regio: str
     huidige_positie: int
 
 
 class ploegCreate(ploegBase):
     titels: int
-    hoogste_positie: int
+    regio: str
     huidige_positie: int
 
 
 class ploeg(ploegBase):
     id: int
-    enkelspel_id: int
+    ploeg_id: int
 
     class Config:
         orm_mode = True
@@ -42,7 +42,7 @@ class SpelerCreate(SpelerBase):
 class Speler(SpelerBase):
     id: int
     is_active: bool
-    ploeg: list[ploeg] = []
+    ploegen: list[ploeg] = []
 
     class Config:
         orm_mode = True

@@ -8,7 +8,7 @@ from fastapi import Depends, HTTPException, status
 
 # to get a string like this run:
 # openssl rand -hex 32
-SECRET_KEY = "7d9a9b32b02713129e19cd6136e4f3999ed28471acfb687d783b39defa820ffd"
+SECRET_KEY = "f54233ccf755a7622cf0e23c1890cdc496fca2a2f144d1f93d4163afef3786f6"
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 

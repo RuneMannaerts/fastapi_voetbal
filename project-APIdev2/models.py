@@ -24,7 +24,7 @@ class ploeg(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     titels = Column(Integer, index=True)
-    regio = Column(Integer, index=True)
+    regio = Column(String, index=True)
     huidige_positie = Column(Integer, index=True)
     ploeg_id = Column(Integer, ForeignKey("spelers.id"))
 
