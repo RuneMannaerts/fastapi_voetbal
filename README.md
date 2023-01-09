@@ -30,8 +30,10 @@ Foto's:
 [https://frontend-api-rune-voetbal.netlify.app](https://frontend-api-rune-voetbal.netlify.app)
 
 **Werking API Postman:**
+
 ![images/post voetballer.jpg]
 ![images/voetballer get.jpg]
 
 **docs screenshots:**
+
 ![images/api + docs.jpg]
